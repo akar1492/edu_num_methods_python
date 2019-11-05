@@ -1,2 +1,2 @@
 ## Ciao!
-### This is a repo for my educational course at MIPT, "Modern OOP technologies for implementing numerical methods". 
+This is a repo for my educational course at MIPT, "Modern OOP technologies for implementing numerical methods". 
