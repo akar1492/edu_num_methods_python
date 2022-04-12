@@ -1,1 +1,1 @@
-Materials for my educational course, "Modern OOP technologies for implementing numerical methods", held at MIPT.
+Materials for my educational course, "OOP programming of numerical methods", held at MIPT.
