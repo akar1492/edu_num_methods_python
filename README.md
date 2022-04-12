@@ -1,1 +1,1 @@
-This is a repo for my educational course at MIPT, "Modern OOP technologies for implementing numerical methods". 
+Materials for my educational course, "Modern OOP technologies for implementing numerical methods", held at MIPT.
