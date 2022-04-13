@@ -1,1 +1,1 @@
-__Materials for my educational course, "OOP programming of numerical methods", held at MIPT.__
+Materials for my educational course, "OOP of numerical methods", held at MIPT.
